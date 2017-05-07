@@ -19,7 +19,7 @@ import java.util.List;
 
 public class FlowLayout extends ViewGroup {
     private List<List<View>> mAllRowViews = new ArrayList<>();
-    private List<View> mRowView = new ArrayList<>();
+    private List<View> mRowView = null;
     private List<Integer> mRowHeight = new ArrayList<>();
 
     public FlowLayout(Context context) {
@@ -59,7 +59,7 @@ public class FlowLayout extends ViewGroup {
             int childWidth = 0;
             int childHeight = 0;
             int count = getChildCount();
-
+            mRowView = new ArrayList<>();
             for (int i = 0; i < count; i++) {
                 View child = getChildAt(i);
                 measureChild(child, widthMeasureSpec, heightMeasureSpec);

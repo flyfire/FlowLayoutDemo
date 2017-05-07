@@ -10,46 +10,57 @@
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="18sp"
             android:text="hello"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="19sp"
             android:text="hello123"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="8sp"
             android:text="你好"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="20sp"
             android:text="大王叫我来巡山"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="30sp"
             android:text="我把人间转一转"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="15sp"
             android:text="helloworld"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="16sp"
             android:text="worldwonder"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="15sp"
             android:text="wonderofland"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="10sp"
             android:text="landscape"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="5sp"
             android:text="接不下去了"/>
 
         <TextView
             style="@style/text_flag_01"
+            android:textSize="10sp"
             android:text="肿么办"/>
 
 
