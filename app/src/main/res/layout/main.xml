@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <com.solarexsoft.flowlayout.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello123"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="你好"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="大王叫我来巡山"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="我把人间转一转"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="helloworld"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="worldwonder"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="wonderofland"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="landscape"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="接不下去了"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="肿么办"/>
+
+
+    </com.solarexsoft.flowlayout.FlowLayout>
+</LinearLayout>
