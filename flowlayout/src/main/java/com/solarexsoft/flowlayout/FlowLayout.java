@@ -59,6 +59,8 @@ public class FlowLayout extends ViewGroup {
             int childWidth = 0;
             int childHeight = 0;
             int count = getChildCount();
+            mAllRowViews.clear();
+            mRowHeight.clear();
             mRowView = new ArrayList<>();
             for (int i = 0; i < count; i++) {
                 View child = getChildAt(i);
