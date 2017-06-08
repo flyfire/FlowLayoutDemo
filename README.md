@@ -2,8 +2,9 @@
 FlowLayoutDemo
 
 Android 流式布局
+[ ![Download](https://api.bintray.com/packages/solarexsoft/maven/FlowLayout/images/download.svg) ](https://bintray.com/solarexsoft/maven/FlowLayout/_latestVersion)
 
-``compile 'com.solarexsoft.flowlayout:flowlayout:2.0.0'``
+``compile 'com.solarexsoft.flowlayout:flowlayout:1.0.0'``
 
 <img src="https://github.com/flyfire/FlowLayoutDemo/raw/master/screenshot.png" width="270" height="480"/>
 
